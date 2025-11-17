@@ -15,7 +15,7 @@
              color: #00C3FF; 
              font-weight: bold; 
              animation: fadeInUp 2s ease-in-out forwards;">
-    ✨ I am Muhammad Abdullah ✨
+    ✨ I am Abdullah Ahmed ✨
   </h1>
 
   <p style="font-size: 1.3em; 
@@ -41,7 +41,7 @@
 🔭 Currently building: <strong>a marketplace SaaS platform</strong>  
 🌱 Learning: <strong>AI, Machine Learning, AWS, System Design</strong>  
 📈 Focus: <strong>Full-Stack Engineering, Automation, Scaling</strong>  
-📬 Contact: <strong>abdullahthewebbee@gmail.com</strong>
+📬 Contact: <strong>abdullahahmad.tech@gmail.com</strong>
 
 </div>
 
